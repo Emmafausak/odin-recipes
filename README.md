@@ -1,3 +1,2 @@
 # odin-recipes
- First Odin Project 
- Basic recipe website to practice HTML 
+ Basic HTML website showcasing recipes from Food Wars
